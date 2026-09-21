@@ -30,11 +30,11 @@ representatives, sales channels and time-based performance.
 
   Tool                     Purpose
   ------------------------ ---------------------------------------
-  **Microsoft Power BI**   Dashboard development & visualization <br/>
-  **Power Query**          Data cleaning & transformation <br/>
-  **DAX**                  KPI and business measure calculations <br/>
-  **CSV Dataset**          Source data <br/>
-  **Data Visualization**   Business performance analysis <br/>
+  **Microsoft Power BI** -  Dashboard development & visualization <br/>
+  **Power Query**        -  Data cleaning & transformation <br/>
+  **DAX**                -  KPI and business measure calculations <br/>
+  **CSV Dataset**        - Source data <br/>
+  **Data Visualization** -  Business performance analysis <br/>
 
 ## Questions (KPIs)
 - What is the total revenue generated?
